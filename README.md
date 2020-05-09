@@ -6,5 +6,9 @@ Mianmö project is an open source project to allow everyone to build and assembl
 
 # [Selection of your fabrics](https://mianmo-project.github.io/selection-of-fabrics/)
 
-# Model and how to build your cloth face mask
+# [Model and how to build your cloth face mask](https://mianmo-project.github.io/mask-models/)
+
+# How to contribute
+
+The project is open source licensed under the CC-BY-SA license. Feel free to fork the [respective repository](https://github.com/Mianmo-project) and propose your improvements.
 
