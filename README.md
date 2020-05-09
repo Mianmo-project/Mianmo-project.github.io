@@ -23,3 +23,5 @@ We list other open source initiatives, don't hesitate to share those with us.
 
 We also keep track of [failed design patterns](https://mianmo-project.github.io/mask-models/FAILED). If you want to share your failed designs, we are also interested.
 
+# [References](https://mianmo-project.github.io/mask-models/references)
+
